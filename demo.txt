@@ -1,1 +1,3 @@
 Hello pallavi reddy
+hey you are learning git 
+how to use github
